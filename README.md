@@ -7,8 +7,10 @@ to employ JATE offline and without the need of your browser after intial install
 
 ## Usage
 
-<!-- [Live URL](This is going to have the heroku deploy link) -->
+[Live URL](https://mysterious-sea-38142-da1fbf7d548a.herokuapp.com/)
 
 ## Screenshots
 
-<!-- Screenshots of Heroku launch and PWA usage -->
+![Screenshot of Injection Editor in Browser](.\screenshots\Heroku_deployed_browserBased_JATE.PNG)
+
+![Screenshot of Injection Editor as PWA](.\screenshots\PWA_deployed_heroku.PNG)
