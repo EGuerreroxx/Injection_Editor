@@ -11,6 +11,6 @@ to employ JATE offline and without the need of your browser after intial install
 
 ## Screenshots
 
-![Screenshot of Injection Editor in Browser](.\client\screenshots\Heroku_deployed_browserBased_JATE.PNG)
+![Screenshot of Injection Editor in Browser](./client/screenshots/Heroku_deployed_browserBased_JATE.PNG)
 
-![Screenshot of Injection Editor as PWA](.\client\screenshots\PWA_deployed_heroku.PNG)
+![Screenshot of Injection Editor as PWA](./client/screenshots/PWA_deployed_heroku.PNG)
